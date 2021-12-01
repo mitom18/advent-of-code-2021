@@ -2,7 +2,7 @@ import { createReadStream } from "fs";
 import { createInterface } from "readline";
 
 async function countIncreases() {
-    const fileStream = createReadStream("part1.in");
+    const fileStream = createReadStream("data.in");
 
     const rl = createInterface({
         input: fileStream,
