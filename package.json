@@ -4,7 +4,9 @@
   "description": "Advent of Code 2021 Event Solutions",
   "scripts": {
     "start:d1p1": "ts-node day01/part1.ts",
-    "start:d1p2": "ts-node day01/part2.ts"
+    "start:d1p2": "ts-node day01/part2.ts",
+    "start:d2p1": "ts-node day02/part1.ts",
+    "start:d2p2": "ts-node day02/part2.ts"
   },
   "repository": {
     "type": "git",
