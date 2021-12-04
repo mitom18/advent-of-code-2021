@@ -8,7 +8,9 @@
     "start:d2p1": "ts-node day02/part1.ts",
     "start:d2p2": "ts-node day02/part2.ts",
     "start:d3p1": "ts-node day03/part1.ts",
-    "start:d3p2": "ts-node day03/part2.ts"
+    "start:d3p2": "ts-node day03/part2.ts",
+    "start:d4p1": "ts-node day04/part1.ts",
+    "start:d4p2": "ts-node day04/part2.ts"
   },
   "repository": {
     "type": "git",
