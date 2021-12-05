@@ -10,7 +10,9 @@
     "start:d3p1": "ts-node day03/part1.ts",
     "start:d3p2": "ts-node day03/part2.ts",
     "start:d4p1": "ts-node day04/part1.ts",
-    "start:d4p2": "ts-node day04/part2.ts"
+    "start:d4p2": "ts-node day04/part2.ts",
+    "start:d5p1": "ts-node day05/part1.ts",
+    "start:d5p2": "ts-node day05/part2.ts"
   },
   "repository": {
     "type": "git",
