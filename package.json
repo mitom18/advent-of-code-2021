@@ -14,7 +14,9 @@
     "start:d5p1": "ts-node day05/part1.ts",
     "start:d5p2": "ts-node day05/part2.ts",
     "start:d6p1": "ts-node day06/part1.ts",
-    "start:d6p2": "ts-node day06/part2.ts"
+    "start:d6p2": "ts-node day06/part2.ts",
+    "start:d7p1": "ts-node day07/part1.ts",
+    "start:d7p2": "ts-node day07/part2.ts"
   },
   "repository": {
     "type": "git",
