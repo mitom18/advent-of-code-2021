@@ -20,7 +20,9 @@
     "start:d8p1": "ts-node day08/part1.ts",
     "start:d8p2": "ts-node day08/part2.ts",
     "start:d9p1": "ts-node day09/part1.ts",
-    "start:d9p2": "ts-node day09/part2.ts"
+    "start:d9p2": "ts-node day09/part2.ts",
+    "start:d10p1": "ts-node day10/part1.ts",
+    "start:d10p2": "ts-node day10/part2.ts"
   },
   "repository": {
     "type": "git",
