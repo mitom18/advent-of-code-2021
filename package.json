@@ -32,7 +32,9 @@
     "start:d14p1": "ts-node day14/part1.ts",
     "start:d14p2": "ts-node day14/part2.ts",
     "start:d15p1": "ts-node day15/part1.ts",
-    "start:d15p2": "ts-node day15/part2.ts"
+    "start:d15p2": "ts-node day15/part2.ts",
+    "start:d16p1": "ts-node day16/part1.ts",
+    "start:d16p2": "ts-node day16/part2.ts"
   },
   "repository": {
     "type": "git",
