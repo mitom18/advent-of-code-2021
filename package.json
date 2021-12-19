@@ -38,7 +38,9 @@
     "start:d17p1": "ts-node day17/part1.ts",
     "start:d17p2": "ts-node day17/part2.ts",
     "start:d18p1": "ts-node day18/part1.ts",
-    "start:d18p2": "ts-node day18/part2.ts"
+    "start:d18p2": "ts-node day18/part2.ts",
+    "start:d19p1": "ts-node day19/part1.ts",
+    "start:d19p2": "ts-node day19/part2.ts"
   },
   "repository": {
     "type": "git",
